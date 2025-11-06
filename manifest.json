@@ -1,0 +1,17 @@
+{
+  "name": "KellyMarie Password Vault",
+  "short_name": "PassVault",
+  "description": "A password manager built by Kelly",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4c2c2",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
